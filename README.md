@@ -1,16 +1,18 @@
-<h1>## Hi there 👋</h1>
+<h1>👋 Hi there, I'm Mohamed Bendada</h1>
 
-<p>I'm Mohamed Bendada, a passionate digital development intern focusing on full-stack web development. Currently, I'm exploring various fields of technology including software and web development.</p>
+<p>
+I'm a <strong>Digital Development intern</strong> passionate about <strong>full-stack web development</strong>.  
+Currently based in Rabat, I'm exploring different areas of technology — from software to web development — with a constant desire to learn and build meaningful digital experiences.
+</p>
 
-<h3>💻 Tech Stack (so far):</h3>
+<h3>💻 Tech Stack</h3>
 <ul>
-    <li>✔ HTML | CSS | Bootstrap</li>
-    <li>✔ Python (Algorithms, OOP) | MySQL Workbench</li>
-    <li>🔜 Learning JavaScript & PHP</li>
+    <li>✔ <strong>Frontend:</strong> HTML, CSS, Bootstrap, Javascript, React(in progress)</li>
+    <li>✔ <strong>Backend:</strong> Python (Algorithms, OOP, Flask), SQL, PHP, Laravel(in progress)</li>
 </ul>
 
-<h3>📫 How to reach me:</h3>
-<p><strong>Email:</strong> <a href="mailto:bendada.mohamed00@gmail.com" target="_blank">Send me an email</a></p>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-bendada" target="_blank">www.linkedin.com/in/mohamed-bendada</a></p>
+<h3>📫 Let's Connect</h3>
+<p><strong>Email:</strong> <a href="mailto:bendada.mohamed@outlook.com" target="_blank">bendada.mohamed@outlook.com</a></p>
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-bendada" target="_blank">linkedin.com/in/mohamed-bendada</a></p>
 
-<p>😄 <strong>Pronouns:</strong> He/Him</p>
+<p>😄 <strong>Pronouns:</strong> He / Him</p>
